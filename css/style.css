@@ -238,8 +238,8 @@ p {
 	left: 50%;
 	margin-left: -40px;
 	margin-top: -40px;
-	-webkit-animation: rotatee 2.0s infinite linear;
-	animation: rotatee 2.0s infinite linear;
+	-webkit-animation: rotatee 2.0s linear;
+	animation: rotatee 2.0s linear;
 }
 
 .cube {
